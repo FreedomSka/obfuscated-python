@@ -1,3 +1,3 @@
 # obfuscated-python
 
-If you have any improvement feel free to share :D
+If you have any improvement feel free to share
